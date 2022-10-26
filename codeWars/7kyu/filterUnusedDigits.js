@@ -1,4 +1,5 @@
 // Filter unused digits
+// Link: https://www.codewars.com/kata/55de6173a8fbe814ee000061
 
 // Solution v.1.0
 function unusedDigits() {

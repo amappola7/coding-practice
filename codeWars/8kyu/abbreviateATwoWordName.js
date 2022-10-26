@@ -1,4 +1,5 @@
 // Abbreviate a Two Word Name
+// Link: https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 
 // Solution v.1.0
 function abbrevName(name){

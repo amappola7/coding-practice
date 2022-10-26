@@ -1,4 +1,5 @@
 // Let's Recycle!
+// Link: https://www.codewars.com/kata/5b6db1acb118141f6b000060
 
 // Solution v.1.0
 function recycle(array) {

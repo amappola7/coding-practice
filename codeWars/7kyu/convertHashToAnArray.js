@@ -1,4 +1,5 @@
 // Convert Hash To An Array
+// Link: https://www.codewars.com/kata/59557b2a6e595316ab000046
 
 // Solution v.2.0.
 function convertHashToArray(hash){

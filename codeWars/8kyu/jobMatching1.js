@@ -1,4 +1,5 @@
 // Job Matching #1
+// Link: https://www.codewars.com/kata/56c22c5ae8b139416c00175d
 
 // Solution v.2.0.
 function match(candidate, job) {
