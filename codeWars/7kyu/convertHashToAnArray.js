@@ -1,11 +1,8 @@
 // Convert Hash To An Array
 
-// Solution v.1.0
+// Solution v.2.0.
 function convertHashToArray(hash){
-  const output = []
-  for (let key in hash) {
-    output.push([key, hash[key]]);
-  }
+  const output = Object.entries(hash);
 
   return output.sort();
 }
