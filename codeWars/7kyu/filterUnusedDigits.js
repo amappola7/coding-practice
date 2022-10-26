@@ -1,3 +1,5 @@
+// Filter unused digits
+
 // Solution v.1.0
 function unusedDigits() {
   const args = Object.values(arguments);
