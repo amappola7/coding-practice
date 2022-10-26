@@ -1,3 +1,5 @@
+// Abbreviate a Two Word Name
+
 // Solution v.1.0
 function abbrevName(name){
   let initials = "";
