@@ -1,5 +1,5 @@
 // Sorted? yes? no? how?
-// https://www.codewars.com/kata/580a4734d6df748060000045/train/javascript
+// Link: https://www.codewars.com/kata/580a4734d6df748060000045/train/javascript
 
 // Solution v.1.0
 function isSortedAndHow(array) {
