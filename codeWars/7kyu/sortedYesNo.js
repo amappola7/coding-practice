@@ -10,7 +10,7 @@ function isSortedAndHow(array) {
     if (a > b) {
       return 1;
     }
-    // a debe ser igual b
+
     return 0;
   });
 
