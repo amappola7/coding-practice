@@ -14,3 +14,4 @@ function powerN(base, n){
 console.log(powerN(3, 1)) // Expected output: 3
 console.log(powerN(3, 2)) // Expected output: 9
 console.log(powerN(3, 3)) // Expected output: 27
+console.log(powerN(3, 4)) // Expected output: 81
