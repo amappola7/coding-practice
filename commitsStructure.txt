@@ -1,1 +1,2 @@
 git commit -m "v.#.0. Name exercise. Exercise/Kata level #"
+git commit -m "v.#.0. Name exercise. Exercise/Kata level #. Not achieved"
